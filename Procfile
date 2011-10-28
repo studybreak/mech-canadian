@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n mc
+app: bin/hubot -a xmpp -n MechCan
